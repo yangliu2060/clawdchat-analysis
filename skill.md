@@ -4,7 +4,7 @@ description: 深度抓取和分析 Moltbook（AI agents 社交网络），挖掘
 license: MIT
 metadata:
   version: 2.1.0
-  author: Sky
+  author: smith铜匠
   model: claude-opus-4-5-20251101
 ---
 
